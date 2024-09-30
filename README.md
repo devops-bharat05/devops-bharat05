@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 **Professional Summary**:
-I am a **Major Incident & Change Manager** with over **7+ years of experience** in ensuring smooth IT operations and swift incident resolutions. I am now focusing on transitioning into a **DevOps role** to merge my management expertise with hands-on experience in **automation**, **cloud services**, and **infrastructure as code**. I am enthusiastic about streamlining workflows, implementing continuous delivery pipelines, and leveraging cloud-native technologies to boost operational efficiency.
+I am a **Major Incident & Change Manager** with over **6+ years of experience** in ensuring smooth IT operations and swift incident resolutions. I am now focusing on transitioning into a **DevOps role** to merge my management expertise with hands-on experience in **automation**, **cloud services**, and **infrastructure as code**. I am enthusiastic about streamlining workflows, implementing continuous delivery pipelines, and leveraging cloud-native technologies to boost operational efficiency.
 
 ---
 
