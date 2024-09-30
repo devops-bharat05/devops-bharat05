@@ -55,6 +55,7 @@ As I transition into a **DevOps role**, my focus areas include:
 
 **Secondary Schooling**  
 *2006-2007 | Army Public School Kanpur Cantt*
+
 ---
 
 ## 🛠 **Tech Stack**:
