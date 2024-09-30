@@ -19,8 +19,14 @@ I am a **Major Incident & Change Manager** with over **7+ years of experience** 
 
 ## 💼 **Work Experience**:
 
+### **Major Incident & Change Manager | OutWorks Solution Pvt Ltd**  
+*Jul 2024 - Present | Noida, India*  
+- Managed critical incidents, achieving **25% faster resolutions** and enhanced customer satisfaction.
+- Improved resource allocation efficiency by **15%** and contributed to maintaining **99% uptime**.
+- Orchestrated response plans that optimized the entire lifecycle of incident resolution.
+
 ### **Major Incident & Change Manager | NetConnect Global**  
-*Jul 2023 - Present | Noida, India*  
+*Jul 2023 - Aug 2024 | Noida, India*  
 - Managed critical incidents, achieving **25% faster resolutions** and enhanced customer satisfaction.
 - Improved resource allocation efficiency by **15%** and contributed to maintaining **99% uptime**.
 - Orchestrated response plans that optimized the entire lifecycle of incident resolution.
