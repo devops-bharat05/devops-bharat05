@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 **Professional Summary**:
-I am a **Major Incident & Change Manager** with over **6+ years of experience** in ensuring smooth IT operations and swift incident resolutions. I am now focusing on transitioning into a **DevOps role** to merge my management expertise with hands-on experience in **automation**, **cloud services**, and **infrastructure as code**. I am enthusiastic about streamlining workflows, implementing continuous delivery pipelines, and leveraging cloud-native technologies to boost operational efficiency.
+I am a **Major Incident & Change Manager** with over **7+ years of experience** in ensuring smooth IT operations and swift incident resolutions. I am now focusing on transitioning into a **DevOps role** to merge my management expertise with hands-on experience in **automation**, **cloud services**, and **infrastructure as code**. I am enthusiastic about streamlining workflows, implementing continuous delivery pipelines, and leveraging cloud-native technologies to boost operational efficiency.
 
 ---
 
@@ -55,7 +55,6 @@ As I transition into a **DevOps role**, my focus areas include:
 
 **Secondary Schooling**  
 *2006-2007 | Army Public School Kanpur Cantt*
-
 ---
 
 ## 🛠 **Tech Stack**:
@@ -89,11 +88,3 @@ As I transition into a **DevOps role**, my focus areas include:
 ## 📫 **Connect with me**:
 - **Email**: bharatbhushan05@hotmail.com
 - **LinkedIn**: [Bharat Bhushan](https://www.linkedin.com/in/bharatbhushan)  
-```
-
-### Key Changes:
-- Highlighted your **transition to a DevOps role**.
-- Added **DevOps-specific goals** and tools like Terraform, Jenkins, Kubernetes, and CI/CD pipelines.
-- Included **DevOps-related tools** in your tech stack.
-
-This version reflects your evolving career path while maintaining your experience and skills. Let me know if you'd like any further changes!
