@@ -126,4 +126,4 @@ As I transition into a **DevOps role**, my focus is on acquiring deep expertise 
 
 ## 📫 **Connect with me**:
 - **Email**: bharatbhushan05@hotmail.com
-- **LinkedIn**: [Bharat Bhushan](https://www.linkedin.com/in/bharatbhushan)  
+- **LinkedIn**: [Bharat Bhushan]([https://www.linkedin.com/in/bharatbhushan](https://www.linkedin.com/in/bharat-bhushan-754277324/))  
