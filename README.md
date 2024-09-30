@@ -47,8 +47,12 @@ As I transition into a **DevOps role**, my focus areas include:
 ---
 
 ## 🎓 **Education**:
-**B.Tech in Computer Science**  
+**B.Tech **  
 *2010 - 2014 | Maharishi Dayanand University, Rohtak*
+**Senior Secondary Schooling **  
+*2008-2009 | Army Public School Kanpur Cantt*
+**Secondary Schooling **  
+*2006-2007 | Army Public School Kanpur Cantt*
 
 ---
 
