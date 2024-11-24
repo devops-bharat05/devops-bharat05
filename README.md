@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bharat Bhushan
 
-### 🚀 Major Incident & Change Manager | ITIL V3 Certified | Aspiring DevOps Professional | AWS & DevOps Enthusiast
+### 🚀 Certified AWS Solutions Architect- Associate | Major Incident & Change Manager | ITIL V3 Certified | Aspiring DevOps Professional | AWS & DevOps Enthusiast
 
 ---
 
